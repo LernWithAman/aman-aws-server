@@ -1,0 +1,10 @@
+sudo apt update 
+sudo apt install apache2
+cd /var/www/html/
+ls (for cheking the files wich is exesting into the server)
+sudo -rm index.html
+sudo nano index.html
+then you can edit what youn want to show on website
+then save it thru the to the comand is (contro+x) 
+enter (y) sor save and confirme
+thne go and chek out your web site is apdated or not 
